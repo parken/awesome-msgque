@@ -56,6 +56,6 @@ List of compatible hardware platform recommended for MSGQue deployments.
 
 ### Offers
 
-* [MSG91](https://msg91.com/startups/) - Free 25,000\* SMS for Suartups
+* [MSG91](https://msg91.com/startups/) - Free 25,000\* SMS for Startups
 
 
