@@ -1,4 +1,4 @@
-# Awesome MSGQue [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/msgque/msgque?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+# Awesome MSGQue [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Slack](https://badges.gitter.im/Join%20Chat.svg)](https://msgque.slack.com?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 A curated list of MSGQue - SMS community projects. 
 
@@ -16,14 +16,14 @@ List of projects bundling MSGQue server in it's stack.
 
 ### Awesome Use Cases
 List of projects using MSGQue server to store their data.
-* [Beatle](https://github.com/beatle) - Beatle uses MSGQue send communication sms to its users.
-* [Sri Siddhartha University](http://sahe.in) - SAHE uses MSGQue to manage communication with students, parents and faculty
+* [Kiwanja.net](Empowering farmers through SMS) - Beatle uses MSGQue send communication sms to its users.
 
 ### Awesome Tools
 List of tools and software supporting MSGQue with it.
 * [SMS Gateway](http://smsgateway.me) - Turn your Android phone into a SMS Gateway
 * [Kannel](http://kannel.org) - Kannel is a compact and very powerful open source WAP and SMS gateway
 * [PlaySMS](https://playsms.org) - playSMS gateway plugin for Mesabot.com Indonesia online SMS gateway provider.
+* [Frontline SMS](http://www.frontlinesms.com) - playSMS gateway plugin for Mesabot.com Indonesia online SMS gateway provider.
 * [RapidSMS](https://rapidsms.org) - Build scalable mobile services with Python. free and open-source framework for rapidly building mobile services for scale. 
 
 ### Awesome Companies 
@@ -33,7 +33,9 @@ List of tools and software supporting MSGQue with it.
 * [Twillio](https://www.twilio.com) - Cloud communications platform for building SMS, Voice & Messaging applications on an API built for global scale. 
 * [Nexmo](https://www.nexmo.com) - Nexmo Cloud Communications APIs allows organizations of any size to easily integrate voice, messaging, phone verification and more into their applications. 
 * [Tropo](https://www.tropo.com) - Tropo supports text to speech (TTS) in 32 languages and dialects, in both male and female voices.
+* [SMSGupshup](http://enterprise.smsgupshup.com/) - India's Largest SMS Aggregator
 
+[RouteSMS](http://www.routemobile.com/) | [Solutions Infini](http://www.routemobile.com/) | [MSG91](http://www.routemobile.com/)
 
 ### Awesome Cloud
 List of public cloud services recommended for MSGQue deployments.
@@ -51,5 +53,9 @@ List of compatible hardware platform recommended for MSGQue deployments.
 * [SMS Eagle](https://www.smseagle.eu/) - SMSEagle is a professional hardware SMS gateway for sending and receiving SMS messages. The device is designed with focus on reliability and stability. 
 * [SMS FoxBox](https://www.smsfoxbox.it/) - FoxBox is a tiny Linux-based gateway to send and receive SMS/MMS messages using a commercial SIM card from Web, mail servers, widgets, desktop or network applications.
 * [Hypermedia HG-7000 SMS PRO Gateway](http://hyperms.com/) - Hypermedia Systems' unique add-on communications solutions for PBX/IP-PBX telephone systems enable companies to maximize efficiencies and cost savings while taking full advantage of the latest VoIP, Cellular / Wireless and SMS developments.
+
+### Offers
+
+* [MSG91](https://msg91.com/startups/) - Free 25,000\* SMS for Suartups
 
 
