@@ -16,7 +16,8 @@ List of projects bundling MSGQue server in it's stack.
 
 ### Awesome Use Cases
 List of projects using MSGQue server to store their data.
-* [Kiwanja.net](Empowering farmers through SMS) - Beatle uses MSGQue send communication sms to its users.
+* [Aadhar OTP](https://portal.uidai.gov.in/uidwebportal/residentSelfServices.do?page=otp) - Government of India - uses SMS based Authentication 
+* [Frontline SMS](http://www.frontlinesms.com) - Kiwanja.net - Empowering farmers through SMS
 
 ### Awesome Tools
 List of tools and software supporting MSGQue with it.
