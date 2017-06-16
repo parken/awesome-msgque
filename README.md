@@ -35,7 +35,7 @@ List of tools and software supporting MSGQue with it.
 * [Nexmo](https://www.nexmo.com) - Nexmo Cloud Communications APIs allows organizations of any size to easily integrate voice, messaging, phone verification and more into their applications. 
 * [Tropo](https://www.tropo.com) - Tropo supports text to speech (TTS) in 32 languages and dialects, in both male and female voices.
 * [SMSGupshup](http://enterprise.smsgupshup.com/) - India's Largest SMS Aggregator
-
+* [Mesabot](https://www.mesabot.com/) - Indonesia's SMS Gateway provider.
 [RouteSMS](http://www.routemobile.com/) | [Solutions Infini](http://www.routemobile.com/) | [MSG91](http://www.routemobile.com/)
 
 ### Awesome Cloud
