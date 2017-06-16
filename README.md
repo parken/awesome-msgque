@@ -59,4 +59,7 @@ List of compatible hardware platform recommended for MSGQue deployments.
 
 * [MSG91](https://msg91.com/startups/) - Free 25,000\* SMS for Startups
 
+Others:
+Gammu, Kannel, SMS Server Tools, Jasmin, Playnet, Uplink, Nexmo, Twilio, Infobip, Clickatell, BulkSMS, Orange
+
 
