@@ -36,7 +36,7 @@ List of tools and software supporting MSGQue with it.
 * [Tropo](https://www.tropo.com) - Tropo supports text to speech (TTS) in 32 languages and dialects, in both male and female voices.
 * [SMSGupshup](http://enterprise.smsgupshup.com/) - India's Largest SMS Aggregator
 * [Mesabot](https://www.mesabot.com/) - Indonesia's SMS Gateway provider.
-[RouteSMS](http://www.routemobile.com/) | [Solutions Infini](http://www.routemobile.com/) | [MSG91](http://www.routemobile.com/)
+[RouteSMS](http://www.routemobile.com/) | [Solutions Infini](http://www.routemobile.com/) | [MSG91](http://www.routemobile.com/) | [IMI Mobile - TextLocal](https://imimobile.com/textlocal/)
 
 ### Awesome Cloud
 List of public cloud services recommended for MSGQue deployments.
@@ -61,5 +61,7 @@ List of compatible hardware platform recommended for MSGQue deployments.
 
 Others:
 Gammu, Kannel, SMS Server Tools, Jasmin, Playnet, Uplink, Nexmo, Twilio, Infobip, Clickatell, BulkSMS, Orange
+
+
 
 
