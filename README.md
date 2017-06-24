@@ -55,6 +55,9 @@ List of compatible hardware platform recommended for MSGQue deployments.
 * [SMS FoxBox](https://www.smsfoxbox.it/) - FoxBox is a tiny Linux-based gateway to send and receive SMS/MMS messages using a commercial SIM card from Web, mail servers, widgets, desktop or network applications.
 * [Hypermedia HG-7000 SMS PRO Gateway](http://hyperms.com/) - Hypermedia Systems' unique add-on communications solutions for PBX/IP-PBX telephone systems enable companies to maximize efficiencies and cost savings while taking full advantage of the latest VoIP, Cellular / Wireless and SMS developments.
 
+### Libraries
+List of Libraries
+* [kannel.js](https://github.com/badlee/kannel.js) | [ScriptBox] (https://www.npmjs.com/package/scriptbox)
 ### Offers
 
 * [MSG91](https://msg91.com/startups/) - Free 25,000\* SMS for Startups
