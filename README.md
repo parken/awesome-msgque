@@ -67,4 +67,8 @@ Gammu, Kannel, SMS Server Tools, Jasmin, Playnet, Uplink, Nexmo, Twilio, Infobip
 
 
 
+Cequens | https://github.com/Roave/shorty |
 
+* https://github.com/haifzhan/SMPPSim
+* https://www.youtube.com/watch?v=C2s6ixCgel0
+* https://stackoverflow.com/questions/19799187/kannel-as-smpp-server
