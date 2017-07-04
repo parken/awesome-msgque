@@ -66,7 +66,7 @@ Others:
 Gammu, Kannel, SMS Server Tools, Jasmin, Playnet, Uplink, Nexmo, Twilio, Infobip, Clickatell, BulkSMS, Orange
 
 
-
+Installing Kannel: https://gatewayapi.com/blog/tech/2016/06/14/kannel.html
 Cequens | https://github.com/Roave/shorty |
 
 * https://github.com/haifzhan/SMPPSim
