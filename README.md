@@ -72,3 +72,4 @@ Cequens | https://github.com/Roave/shorty |
 * https://github.com/haifzhan/SMPPSim
 * https://www.youtube.com/watch?v=C2s6ixCgel0
 * https://stackoverflow.com/questions/19799187/kannel-as-smpp-server
+* https://www.quora.com/Is-there-a-cheaper-alternative-to-Twilio/answer/Gerry-Giacoman-Colyer
